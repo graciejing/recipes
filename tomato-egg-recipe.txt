@@ -1,0 +1,12 @@
+Ingredients:
+  - 3 eggs
+  - 1 large tomato
+  - 2 cloves of garlic
+  - a spoonful of oil
+  - some salt
+
+Directions:
+  1. Pour oil and half of the garlic into a pan to heat up.
+  2. Chop up the tomato and pour it into the pan.
+  3. Stir eggs into the pan until flavors have combined.
+  4. Enjoy.
